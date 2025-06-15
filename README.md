@@ -37,6 +37,12 @@ Uses the interrupts for RX char, TX char, Timer.
 
 ## How to use
 
+### files 
+- app_modbus.c : applicative file to define modbus registers and init all layer
+- drv_modbus_crc.c : internal use for crc of modbus layer, to be reused for example with modbus master on another layer
+- drv_modbus_slave.c : main module for modbus slave, RX and TX functions, managing modbus table...
+- hal_uart.c : dirty biding of uart, needs to be fully replaced by stm hal_uart
 
+### use
+see app_modbus.c and main.c
 
-This uses the following 
