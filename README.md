@@ -1,5 +1,9 @@
 # STM32_ModbusSlave
-Modbus slave implementation on STM32 with interruptions
+Modbus slave implementation on STM32 with interruptions.
+Support multiple modbus channels without duplication of code : 2, 3 or more in parallel can work
+Minimal footprint in memory
+Modbus tables static (during compilation) to prevent memory leaks
+updates flag that is checked by the app.
 
 ## Features
 
@@ -19,6 +23,8 @@ Modbus slave implementation on STM32 with interruptions
 Timer
 
 Uart
+
+## How to use
 
 
 
