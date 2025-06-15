@@ -7,10 +7,10 @@ updates flag that is checked by the app.\
 
 ## Tasks to do
 
-- [x] #4  https://github.com/Guanglier/STM32_ModbusSlave/issues/4
-- [ ] #3
-- [ ] #2
-- [ ] #1
+- [x] https://github.com/Guanglier/STM32_ModbusSlave/issues/4
+- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/3
+- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/2
+- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/1
 
 
 ## Features
