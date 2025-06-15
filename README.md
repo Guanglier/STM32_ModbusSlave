@@ -20,9 +20,18 @@ updates flag that is checked by the app.\
 
 ## Requirements
 
-Timer
+### Timer
+Uses the timer for timeout of frame RX. Because can support multiple channels, timer continuously runs.\
+This code uses TIM17 but change can be made without any issue
 
-Uart
+### Uart
+Dedicated UART function to write with interrupts.
+This is the only part that needs to be duplicated (future optimization ?)
+
+### Interrupts
+Uses the interrupts for RX char, TX char, Timer.
+
+
 
 ## How to use
 
