@@ -5,6 +5,10 @@ Minimal footprint in memory\
 Modbus tables static (during compilation) to prevent memory leaks\
 updates flag that is checked by the app.\
 
+## Tasks to do
+
+- [x] #4
+
 ## Features
 
 
