@@ -5,12 +5,6 @@ Minimal footprint in memory\
 Modbus tables static (during compilation) to prevent memory leaks\
 updates flag that is checked by the app.\
 
-## Tasks to do
-
-- [x] https://github.com/Guanglier/STM32_ModbusSlave/issues/4
-- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/3
-- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/2
-- [ ] https://github.com/Guanglier/STM32_ModbusSlave/issues/1
 
 
 ## Features
