@@ -7,7 +7,7 @@ updates flag that is checked by the app.\
 
 ## Tasks to do
 
-- [x] #4
+- [x] #4  https://github.com/Guanglier/STM32_ModbusSlave/issues/4
 - [ ] #3
 - [ ] #2
 - [ ] #1
