@@ -8,9 +8,9 @@ updates flag that is checked by the app.\
 ## Tasks to do
 
 - [x] #4
-- [] #3
-- [] #2
-- [] #1
+- [ ] #3
+- [ ] #2
+- [ ] #1
 
 
 ## Features
